@@ -1,0 +1,46 @@
+,Count,Mean,Std Dev,Min,25%,Median,75%,Max,Mode
+addr_state,37727,,,AK,,,,WY,CA
+annual_inc,37727,69672.46282609271,63644.44363591241,4000.0,41933.5,60000.0,83550.0,6000000.0,60000.0
+collection_recovery_fee,37727,12.11925510112092,148.1407683727569,0.0,0.0,0.0,0.0,7002.19,0.0
+delinq_2yrs,37727,0.14536008694038752,0.4896437225266743,0,0.0,0.0,0.0,11,0.0
+desc,37727,,,"	 Member# 809768, loan description. (trying to get more investors, doesn't look like we will make it to fully funded by deadline.) How I plan to use the funds: 16x28 Doughboy Pool with all accessories- $7,200 Pool Installation and bury- $2700 Deck surrounding the pool- $6000 Dirt Haul Away- $400 Credit Card payoff amounts: $1344.72, $838.95, and $521.82 What makes me a good borrower: In life I strive to achieve the best and with that I try my best to keep my credit in the best shape possible. I take pride in paying all my bills on time and even early. I have payed off my truck and will be paying off my other car off in March 2012. I have worked very hard to payoff all my credit cards and i'm down to the last three and with this loan they will be payed off which will save me on the interest rates. ??? My monthly budget: I bring home $2,800/month- (This is minus my car insurance, medical, 401 K, and taxes) Which comes out of my check each week.  Budget List: House with insurance and tax- $880/month Other Car- $400 Utilities-ALL- $250-$300 School Loan- $130 3- Credit cards- Minimum monthly payment total- $247 (will be paying this monthly expense off with loan.) How stable my job is: I have been with my job for 6 years and have many specialty training skills that make me a more valuable employee.",,,,"~20K total in medical expenses discovered on emergency procedures that medical insurance did not cover before our marriage. Now we are married I have learned that a debt collector has taken this on. I am working with Original Creditor to pay directly, however only have 8k in cash on hand and do not want to dispose of 401K, paid off cars or other assets to cover this before they try to get a judgment against my wife and totally destroy her credit for 7 years. Ultimately want to save both our credit scores as much as possible so a home purchase is realistic in the coming years.  Summary... Amount Requested: $12,000 Combined Annual Income: $85,000  Monthly Rent/Phone/Internet/Utilities: $1760 Outstanding CC Debt: 3.2K@ 0% through Nov this year   Assets: 2 Cars are fully paid with combined KBB value of ~25k total . ~20K in retirement assets .  3K coming from class action lawsuit victory in the coming months  I do Network Security/Abuse for a top 10 web host, my wife is a part time nursing tech, job security is very strong.  We want this debt done as soon as possible to start house down payment saving. The aim is to pay as much as 1K a month (more if wife picks up more work days) . Seeking a 36 month term just to be safe.",No loan description
+dti,37727,13.38289235825801,6.656453779408441,0.0,8.28,13.48,18.63,29.99,0.0
+earliest_cr_line,37727,,,Apr-00,,,,Sep-99,Nov-98
+emp_length,37727,,,1 year,,,,< 1 year,10+ years
+emp_title,37727,,,  old palm inc,,,,zozaya officiating,Unknown
+funded_amnt,37727,11053.141649216741,7208.265358211712,500,5500.0,10000.0,15000.0,35000,10000.0
+funded_amnt_inv,37727,10627.480963886415,7116.293456401182,0.0,5000.0,9200.0,14625.0,35000.0,5000.0
+grade,37727,,,A,,,,G,B
+home_ownership,37727,,,MORTGAGE,,,,RENT,RENT
+id,37727,690823.3502796405,202578.8473276789,54734,521819.5,670331.0,839692.5,1077501,54734
+inq_last_6mths,37727,0.8660640920295809,1.0664730336047283,0,0.0,1.0,1.0,8,0.0
+installment,37727,327.12673602459773,209.12564042310754,16.08,168.76,283.2,434.75,1305.19,311.11
+int_rate,37727,,,10.00,,11.86,,9.99,10.99
+issue_d,37727,,,Apr-08,,,,Sep-11,Dec-11
+last_credit_pull_d,37727,,,Apr-09,,,,Sep-15,May-16
+last_pymnt_amnt,37727,2733.5047750947597,4492.106806451288,0.01,224.92000000000002,564.87,3409.3599999999997,36115.2,276.06
+last_pymnt_d,37727,,,Apr-09,,,,Sep-15,May-16
+loan_amnt,37727,11330.407268004346,7480.87547266326,500,5600.0,10000.0,15000.0,35000,10000.0
+loan_status,37727,,,Charged Off,,,,Fully Paid,Fully Paid
+member_id,37727,860934.2801441938,253622.70795135107,80364,674478.0,856738.0,1049450.5,1314167,80364
+open_acc,37727,9.326185490497522,4.376298623857465,2,6.0,9.0,12.0,44,7.0
+out_prncp,37727,52.471691361624295,381.05290256548415,0.0,0.0,0.0,0.0,6311.47,0.0
+out_prncp_inv,37727,52.221927532006255,379.6599938577561,0.0,0.0,0.0,0.0,6307.37,0.0
+pub_rec,37727,0.05372809923927161,0.23481239108171728,0,0.0,0.0,0.0,4,0.0
+pub_rec_bankruptcies,37727,0.04148222758236807,0.20033372952905873,0.0,0.0,0.0,0.0,2.0,0.0
+purpose,37727,,,car,,,,wedding,debt_consolidation
+recoveries,37727,94.5076746258409,690.7054383576984,0.0,0.0,0.0,0.0,29623.35,0.0
+revol_bal,37727,13486.074933071804,15887.593501723944,0,3792.5,8978.0,17193.0,149588,0.0
+revol_util,37727,,,0%,,,,99.90%,0%
+sub_grade,37727,,,A1,,,,G5,B3
+term,37727,42.57332944575503,10.703003461469521,36,36.0,36.0,60.0,60,36.0
+title,37727,,,	debt_consolidation,,,,îîMY FIRST CAR îî,Debt Consolidation
+total_acc,37727,22.201765313966124,11.385769461664173,2,14.0,21.0,29.0,90,16.0
+total_pymnt,37727,12316.378336217706,9088.59752420029,33.73,5648.1792595,10076.90404,16722.574825,58563.67993,11196.56943
+total_pymnt_inv,37727,11852.633959498502,8952.10590672192,0.0,5392.92,9617.95,16125.48,58563.68,0.0
+total_rec_int,37727,2303.755342592838,2636.2311169076656,6.22,677.025,1376.15,2891.865,23563.68,1196.57
+total_rec_late_fee,37727,1.328863865239298,7.137766294951823,0.0,0.0,0.0,0.0,180.2,0.0
+total_rec_prncp,37727,9916.78653749304,7092.76192456111,0.0,4800.0,8027.45,14000.0,35000.02,10000.0
+url,37727,,,https://lendingclub.com/browse/loanDetail.action?loan_id=1000007,,,,https://lendingclub.com/browse/loanDetail.action?loan_id=999989,https://lendingclub.com/browse/loanDetail.action?loan_id=1000007
+verification_status,37727,,,Not Verified,,,,Verified,Not Verified
+zip_code,37727,,,007xx,,,,999xx,100xx
